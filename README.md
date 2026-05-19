@@ -29,6 +29,7 @@ Quando você usa o EC2, você está essencialmente alugando um computador na nuv
     5. Accelerated Computing (Computação Acelerada / GPU)
     Famílias: p4, g5, inf1
 
+Mais detalhes na imagem: [Instance Types](https://github.com/paulotobias/desafio-dio-ec2/blob/main/imagens/instances%20type.png)
 
 ### Elastic Block Storage  (EBS)
 serviço de armazenamento em bloco de alto desempenho, projetado para ser usado com o Amazon EC2. Em termos simples, ele funciona como o "disco rígido" ou SSD da sua máquina virtual na nuvem.
