@@ -1,5 +1,5 @@
 
-# Desafio - Gerênciando instâncias EC2
+# Desafio - Gerenciando instâncias EC2
 Este arquivo descreve o desafio/Projeto referente ao assunto (Instâncias EC2, EBS e Bucket S3 na AWS)
 ## Layout APP com Load Balance e RDS/MultiAZ (Draw.io)
 
